@@ -11,4 +11,7 @@ let total;
 total = 80 + ((taxaGarcom / 100) * 80);
 
 // console.log((taxaGarcom / 100) * 80);
-console.log(total);
+// console.log(total);
+
+console.log('R$ '+conta+',00');
+console.log('Total com a taxa R$ '+total+',00');
